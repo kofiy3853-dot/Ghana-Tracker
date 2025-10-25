@@ -1,0 +1,5 @@
+{
+  "name": "Ghana Phone Number Tracker",
+  "description": "An application to look up information about Ghanaian phone numbers, such as the network operator, and provide interesting facts using the Gemini API.",
+  "requestFramePermissions": []
+}
